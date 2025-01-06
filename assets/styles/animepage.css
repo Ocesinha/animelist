@@ -1,0 +1,30 @@
+.anime-image img{
+    width: 30rem;
+    height: auto;
+    border-radius: 10px;
+}
+
+.anime-title{
+    margin-inline: 1rem;
+}
+.anime-title p {
+    margin-block: 1rem;
+}
+.anime-info{
+    background-color: #13092C;
+    border-radius: 10px;
+    padding: 0.5rem;
+}
+
+.popular-card p {
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+    display: block;      
+    overflow: visible;           
+    white-space: normal;          
+    text-overflow: clip;         
+    max-height: none;            
+
+    -webkit-line-clamp: none;    
+    -webkit-box-orient: initial; 
+}
