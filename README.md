@@ -1,5 +1,5 @@
 ## 🎧 **Anime List Project**  
-![Anime List](https://github.com/user-attachments/assets/f33d6ae3-9825-4a99-9960-b111164f4f88)  
+<img src="https://github.com/user-attachments/assets/f33d6ae3-9825-4a99-9960-b111164f4f88" width="700px" heigth="auto">
 
 ### 📚 **About the Project**  
 This project is a comprehensive **anime listing platform**, allowing users to:  
