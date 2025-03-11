@@ -5,7 +5,10 @@
 This project is a comprehensive **anime listing platform**, allowing users to:  
 - View **detailed information** about specific animes.  
 - **Search** for animes easily.  
-- Stay updated with the **latest seasonal animes**.  
+- Stay updated with the **latest seasonal animes**.
+
+[![Access Anime List](https://img.shields.io/badge/Access-Anime%20List-blue?style=for-the-badge&logo=google-chrome)](https://ocesinha.github.io/animelist/)  
+
 
 > ⚠️ **Note**: Some features are still incomplete and will be added in future updates, such as **user accounts, watchlists, and personalized recommendations**.
 
